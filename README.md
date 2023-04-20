@@ -1,5 +1,5 @@
 ### Hi there 👋
-#I'm Firoj Bakhshi
+## I'm Firoj Bakhshi
 
 <!--
 **Firojfab/Firojfab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
