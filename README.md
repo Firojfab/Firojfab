@@ -7,7 +7,7 @@
 
 - 📷 I post videos and tutorials on [▶](https://www.youtube.com)
 
-- 💬 Talking about **Robotics, Automation, IoT, Machine Learning, AI, Computer Vision, **
+- 💬 Talking about **Robotics, Automation, IoT, Machine Learning, AI, Computer Vision**
 
 - 📫 Business inquiries **Firoj.Bakhshi@gmail.com**
 
