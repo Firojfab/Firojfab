@@ -9,7 +9,7 @@
 
 - 💬 Talking about **Robotics, Automation, IoT, Machine Learning, AI, Computer Vision**
 
-- 📫 Business inquiries **Firoj.Bakhshi@gmail.com**
+- 📫 Business inquiries **Firoj.Bakhshi@inphys.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
